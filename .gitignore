@@ -37,3 +37,7 @@ yarn-error.log*
 framework
 
 /misc
+
+.env.development
+.env.production
+

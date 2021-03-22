@@ -13,6 +13,7 @@ builder.init(builderConfig.apiKey)
 import '../sections/ProductGrid/ProductGrid.builder'
 import '../sections/CollectionView/CollectionView.builder'
 import '../sections/Hero/Hero.builder'
+import '../sections/Text/Text.builder'
 
 const Noop: FC = ({ children }) => <>{children}</>
 
